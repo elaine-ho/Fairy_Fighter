@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=game\ x\ y\ width\ height\ loc\ player
+comment0.target=Fairy(Game,\ float,\ float,\ int,\ int,\ int,\ Player)
+comment1.params=
+comment1.target=java.util.ArrayList\ getAttacks()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=boolean\ getDead()
+comment4.params=
+comment4.target=boolean\ getRemove()
+comment5.params=
+comment5.target=void\ startingLoc()
+comment6.params=g
+comment6.target=void\ render(java.awt.Graphics)
+numComments=7

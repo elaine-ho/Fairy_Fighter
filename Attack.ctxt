@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=player\ x\ y
+comment0.target=Attack(Player,\ float,\ float)
+comment1.params=
+comment1.target=float\ getY()
+comment2.params=
+comment2.target=float\ getX()
+comment3.params=
+comment3.target=void\ goesUp()
+comment4.params=
+comment4.target=boolean\ getHit()
+comment5.params=h
+comment5.target=void\ setHit(boolean)
+numComments=6

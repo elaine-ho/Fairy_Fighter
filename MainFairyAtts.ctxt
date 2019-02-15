@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=boss\ x\ y
+comment0.target=MainFairyAtts(MainFairy,\ float,\ float)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainFairyAtts\r\n
+comment1.params=
+comment1.target=boolean\ getHit()
+comment2.params=hit
+comment2.target=void\ setHit(boolean)
+numComments=3

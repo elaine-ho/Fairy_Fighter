@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=game\ x\ y\ width\ height\ faries\ boss
+comment0.target=Player(Game,\ float,\ float,\ int,\ int,\ Fairy[],\ MainFairy)
+comment1.params=
+comment1.target=java.util.ArrayList\ getAttacks()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ getInput()
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=health
+comment5.target=void\ setHealth(int)
+comment6.params=g
+comment6.target=void\ render(java.awt.Graphics)
+numComments=7

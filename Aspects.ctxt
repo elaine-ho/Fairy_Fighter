@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Aspects(float,\ float,\ int,\ int)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+comment3.params=
+comment3.target=float\ getX()
+comment4.params=
+comment4.target=float\ getY()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=int\ getWidth()
+numComments=7

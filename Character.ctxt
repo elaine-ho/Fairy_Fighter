@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Character(float,\ float,\ int,\ int)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=
+comment2.target=float\ getyMove()
+comment3.params=
+comment3.target=float\ getxMove()
+comment4.params=XMove
+comment4.target=void\ setXMove(int)
+comment5.params=YMove
+comment5.target=void\ setYMove(int)
+comment6.params=
+comment6.target=float\ getSpeed()
+comment7.params=speed
+comment7.target=void\ setSpeed(float)
+numComments=8

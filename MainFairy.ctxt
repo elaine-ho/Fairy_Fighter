@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=game\ x\ y\ width\ height\ loc\ player
+comment0.target=MainFairy(Game,\ float,\ float,\ int,\ int,\ int,\ Player)
+comment1.params=
+comment1.target=int\ getHealth()
+comment2.params=p
+comment2.target=void\ setPlayer(Player)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=g
+comment4.target=void\ render(java.awt.Graphics)
+comment5.params=
+comment5.target=boolean\ bossDead()
+numComments=6
